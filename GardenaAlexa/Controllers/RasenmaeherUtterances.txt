@@ -1,0 +1,6 @@
+﻿Rasenmaher {Name}
+Rasenmaher Zeitplan {Name}
+Rasenmaher bitte die {Name} {Time} {Entity} mähen
+Rasenmaher {Name} {Time} {Entity}
+Rasenmaher bitte {Time} {Entity} mähen
+Rasenmaher gib mir den aktuellen {Name}

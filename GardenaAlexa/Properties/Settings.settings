@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GardenaAlexa.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GardenaUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">martin@die-sickels.de</Value>
+    </Setting>
+    <Setting Name="GardenaUserPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">355128Miriam</Value>
+    </Setting>
+    <Setting Name="debuglog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

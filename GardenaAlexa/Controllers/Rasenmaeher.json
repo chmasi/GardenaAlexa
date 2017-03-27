@@ -1,0 +1,21 @@
+﻿{
+  "intents": [
+    {
+      "intent": "Rasenmaher",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "LIST_OF_COMMANDS"
+        },
+        {
+          "name": "Time",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Entity",
+          "type": "LIST_OF_ENTITY"
+        }
+      ]
+    }
+  ]
+}
